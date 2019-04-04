@@ -1,0 +1,20 @@
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app\Fighter app\bin\Debug\Fighter app.exe.config
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app\Fighter app\bin\Debug\Fighter app.exe
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app\Fighter app\bin\Debug\Fighter app.pdb
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app\Fighter app\bin\Debug\MyLibrary.dll
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app\Fighter app\bin\Debug\MyLibrary.pdb
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app\Fighter app\obj\Debug\Fighter app.csprojAssemblyReference.cache
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app\Fighter app\obj\Debug\Fighter app.csproj.CoreCompileInputs.cache
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app\Fighter app\obj\Debug\Fighter app.csproj.CopyComplete
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app\Fighter app\obj\Debug\Fighter app.exe
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app\Fighter app\obj\Debug\Fighter app.pdb
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app - nedovrsena\Fighter app\bin\Debug\Fighter app.exe.config
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app - nedovrsena\Fighter app\bin\Debug\Fighter app.exe
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app - nedovrsena\Fighter app\bin\Debug\Fighter app.pdb
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app - nedovrsena\Fighter app\bin\Debug\MyLibrary.dll
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app - nedovrsena\Fighter app\bin\Debug\MyLibrary.pdb
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app - nedovrsena\Fighter app\obj\Debug\Fighter app.csprojAssemblyReference.cache
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app - nedovrsena\Fighter app\obj\Debug\Fighter app.csproj.CoreCompileInputs.cache
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app - nedovrsena\Fighter app\obj\Debug\Fighter app.csproj.CopyComplete
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app - nedovrsena\Fighter app\obj\Debug\Fighter app.exe
+D:\Downloads\SEDC\vezbanje so kolegi\C#\01.04.2019\Fighter app - nedovrsena\Fighter app\obj\Debug\Fighter app.pdb
