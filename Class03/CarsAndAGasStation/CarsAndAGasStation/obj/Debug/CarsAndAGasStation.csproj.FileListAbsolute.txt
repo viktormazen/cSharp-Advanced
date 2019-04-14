@@ -1,0 +1,7 @@
+D:\Downloads\SEDC\C# Advanced Homework\Class03\CarsAndAGasStation\CarsAndAGasStation\bin\Debug\CarsAndAGasStation.exe.config
+D:\Downloads\SEDC\C# Advanced Homework\Class03\CarsAndAGasStation\CarsAndAGasStation\bin\Debug\CarsAndAGasStation.exe
+D:\Downloads\SEDC\C# Advanced Homework\Class03\CarsAndAGasStation\CarsAndAGasStation\bin\Debug\CarsAndAGasStation.pdb
+D:\Downloads\SEDC\C# Advanced Homework\Class03\CarsAndAGasStation\CarsAndAGasStation\obj\Debug\CarsAndAGasStation.csprojAssemblyReference.cache
+D:\Downloads\SEDC\C# Advanced Homework\Class03\CarsAndAGasStation\CarsAndAGasStation\obj\Debug\CarsAndAGasStation.csproj.CoreCompileInputs.cache
+D:\Downloads\SEDC\C# Advanced Homework\Class03\CarsAndAGasStation\CarsAndAGasStation\obj\Debug\CarsAndAGasStation.exe
+D:\Downloads\SEDC\C# Advanced Homework\Class03\CarsAndAGasStation\CarsAndAGasStation\obj\Debug\CarsAndAGasStation.pdb
